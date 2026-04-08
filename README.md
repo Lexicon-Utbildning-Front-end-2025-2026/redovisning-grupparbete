@@ -136,6 +136,7 @@ Innan redovisning, säkerställ att:
 * [ ] Eventuella speciallösningar (Express/Angular) är förklarade
 * [ ] Ni håller er inom tidsramen (10–15 min)
 * [ ] Ni har testkört presentationen minst en gång
+* [ ] Kör gärna npm run build + npm run start vid demo hellre än npm run dev (blir snabbare då)
 
 ---
 
