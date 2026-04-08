@@ -29,7 +29,7 @@ Bestäm innan:
 
 ---
 
-# 🚀 Utförande
+# 🚀 Utförande - Innehållet på redovisningarna
 
 ## 🔹 Del 1: Förberedelse
 
@@ -47,7 +47,7 @@ Ta upp:
 
 ---
 
-## 🔹 Del 2: Utförande - Innehållet på redovisningarna
+## 🔹 Del 2: Utförande
 
 Hur fungerade utvecklingen av appen? Vilka val gjorde ni under tiden när det gäller olika lösningar kring kod och funktionalitet?
 
