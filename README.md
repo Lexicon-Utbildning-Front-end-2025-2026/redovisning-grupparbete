@@ -148,16 +148,13 @@ För att hålla en bra struktur rekommenderas ungefär:
 * **Utförande (demo + teknik):** 5–7 minuter
 * **Resultat & reflektion:** 2–4 minuter
 
-Tips:
-
-* Prioritera det viktigaste – ni hinner inte visa allt
-* Öva så att ni håller tiden
-* Ha en plan om något i demon inte fungerar
-
 ---
 
 # 💡 Tips
 
+* Prioritera det viktigaste – ni hinner inte visa allt
+* Öva så att ni håller tiden
+* Ha en plan om något i demon inte fungerar
 * Visa hellre än att bara berätta
 * Håll ett bra tempo (inte för snabbt, inte för långsamt)
 * Var ärliga i reflektionerna – det är där mycket lärande syns
