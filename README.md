@@ -49,7 +49,7 @@ Ta upp:
 
 ## 🔹 Del 2: Utförande
 
-Visa hur ni faktiskt byggde lösningen.
+Hur fungerade utvecklingen av appen? Vilka val gjorde ni under tiden när det gäller olika lösningar kring kod och funktionalitet?
 
 ### 🧱 Grundfunktionalitet (MVP)
 
