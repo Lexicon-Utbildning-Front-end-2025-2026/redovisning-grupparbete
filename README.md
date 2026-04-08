@@ -4,7 +4,7 @@ Den här instruktionen hjälper er att planera och genomföra en tydlig, struktu
 
 ---
 
-# 🧠 Förberedelse
+# 🧠 Förberedelse - Inför redovisningarna
 
 Inför redovisningen ska ni:
 
@@ -47,7 +47,7 @@ Ta upp:
 
 ---
 
-## 🔹 Del 2: Utförande
+## 🔹 Del 2: Utförande - Innehållet på redovisningarna
 
 Hur fungerade utvecklingen av appen? Vilka val gjorde ni under tiden när det gäller olika lösningar kring kod och funktionalitet?
 
@@ -95,8 +95,8 @@ Om ni tillhör någon av dessa grupper:
 
 * **Express-gruppen:** Förklara hur ert API fungerar och varför ni valde den lösningen
 * **Angular-gruppen:** Berätta om skillnader jämfört med React/Next och era lärdomar
-* **AI-användning:** Hur ni använde AI i projektet, vilka svårigheter ni stötte på och viktiga lärdomar
-  
+* **AI-grupperna:** Hur ni använde AI i projektet, vilka svårigheter ni stötte på och viktiga lärdomar
+
 ---
 
 ## 🔹 Del 3: Resultat & Reflektion
