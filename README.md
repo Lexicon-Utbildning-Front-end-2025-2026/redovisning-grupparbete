@@ -20,24 +20,11 @@ Alla i gruppen ska prata minst en gång.
 
 ---
 
-## 2. Skapa slides
-
-Ni ska använda slides (t.ex. PowerPoint, Google Slides eller liknande).
-
-Slides ska:
-
-* Vara visuella (inte bara text)
-* Stödja det ni säger (inte ersätta det)
-* Innehålla kodexempel, skärmbilder eller flöden där det är relevant
-
----
-
-## 3. Planera vem som säger vad
+## 2. Planera vem som säger vad
 
 Bestäm innan:
 
 * Vem som presenterar vilken del
-* Vem som visar kod/demo
 * Hur ni lämnar över mellan varandra
 
 ---
@@ -51,21 +38,12 @@ Berätta hur ni tänkte innan ni började koda.
 Ta upp:
 
 * Hur såg er planering ut?
+* Vilka designbeslut tog ni, såväl i UI/UX som arkitektur?
 * Hur arbetade ni med:
-
+  
   * User stories
   * Sprint backlog
   * Gruppkontrakt
-* Designval (UI/UX)
-
-### 🤖 AI-användning
-
-Berätta:
-
-* Hur ni använde AI i projektet
-* Vad ni använde det till (kod, debugging, idéer, etc.)
-* Fördelar och nackdelar
-* Vad ni lärde er
 
 ---
 
@@ -117,7 +95,8 @@ Om ni tillhör någon av dessa grupper:
 
 * **Express-gruppen:** Förklara hur ert API fungerar och varför ni valde den lösningen
 * **Angular-gruppen:** Berätta om skillnader jämfört med React/Next och era lärdomar
-
+* **AI-användning:** Hur ni använde AI i projektet, vilka svårigheter ni stötte på och viktiga lärdomar
+  
 ---
 
 ## 🔹 Del 3: Resultat & Reflektion
@@ -149,7 +128,6 @@ Om ni tillhör någon av dessa grupper:
 Innan redovisning, säkerställ att:
 
 * [ ] Alla i gruppen har en tydlig del att presentera
-* [ ] Slides är färdiga, visuella och lättlästa
 * [ ] Presentationen följer strukturen: Förberedelse → Utförande → Resultat & Reflektion
 * [ ] Ni visar en fungerande demo (eller har screenshots som backup)
 * [ ] Era valbara moduler är tydligt förklarade (vad, varför, hur)
