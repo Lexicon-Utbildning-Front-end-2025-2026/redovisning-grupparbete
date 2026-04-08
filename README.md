@@ -123,6 +123,10 @@ Om ni tillhör någon av dessa grupper:
 
 ---
 
+Dela länk till Github-repo och README-fil i chatten.
+
+---
+
 # ✅ Checklista
 
 Innan redovisning, säkerställ att:
