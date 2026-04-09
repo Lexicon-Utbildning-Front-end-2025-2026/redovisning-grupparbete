@@ -16,7 +16,7 @@ Dela upp presentationen i tre tydliga delar:
 * Utförande
 * Resultat & Reflektion
 
-Alla i gruppen ska prata minst en gång.
+Alla i gruppen ska prata minst en gång. 
 
 ---
 
@@ -30,6 +30,8 @@ Bestäm innan:
 ---
 
 # 🚀 Utförande - Innehållet på redovisningarna
+
+**Genomgående för redovisningarna - Tänk på att sammanfatta och göra det överskådligt hellre än att gå in på för många detaljer!** Plocka ur det viktigaste budskapet och kärnan i det ni vill säga. Det är viktigt både för att öva på det och för andras tid/uppmärksamhet. 
 
 ## 🔹 Del 1: Förberedelse
 
