@@ -61,6 +61,7 @@ Demonstrera:
 * Sök/filter
 * Paginering
 * Varukorg (statisk eller funktionell)
+* Ert repo med Readme (dela länk i chatten i anslutning till redovisningen)
 
 ---
 
@@ -124,9 +125,6 @@ Om ni tillhör någon av dessa grupper:
 
 ---
 
-Dela länk till Github-repo och README-fil i chatten.
-
----
 
 # ✅ Checklista
 
