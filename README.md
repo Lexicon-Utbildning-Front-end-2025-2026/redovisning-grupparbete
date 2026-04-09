@@ -44,6 +44,7 @@ Ta upp:
   * User stories
   * Sprint backlog
   * Gruppkontrakt
+  * Möten och kommunikation
 
 ---
 
