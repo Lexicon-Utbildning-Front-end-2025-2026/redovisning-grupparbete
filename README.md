@@ -143,13 +143,13 @@ Innan redovisning, säkerställ att:
 
 ---
 
-# ⏱️ Tidsram (10–15 minuter)
+# ⏱️ Tidsram (15–20 minuter)
 
-För att hålla en bra struktur rekommenderas ungefär:
+För att hålla en bra struktur rekommenderas att ni delar upp det relativt lika tidsmässigt mellan:
 
-* **Förberedelse:** 3–4 minuter
-* **Utförande (demo + teknik):** 5–7 minuter
-* **Resultat & reflektion:** 2–4 minuter
+* **Förberedelse** 
+* **Utförande (demo + teknik)**
+* **Resultat & reflektion**
 
 ---
 
